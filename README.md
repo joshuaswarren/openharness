@@ -307,3 +307,7 @@ firmware. Start with the [contribution guide](CONTRIBUTING.md).
 [Architecture](docs/architecture.md) · [Product direction (proposal)](docs/product-direction.md) ·
 [Development](docs/development.md) · [Extending](docs/extending.md) · [CLI](docs/cli.md) ·
 [Security](SECURITY.md) · [MIT license](LICENSE); upstream tools keep their own.
+
+## Contributors
+
+Everyone credited so far: [CONTRIBUTORS.md](CONTRIBUTORS.md).
